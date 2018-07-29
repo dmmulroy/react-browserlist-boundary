@@ -1,1 +1,1 @@
-# react-browserlist
+# react-browserslist
