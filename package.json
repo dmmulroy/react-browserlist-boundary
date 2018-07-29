@@ -1,5 +1,5 @@
 {
-  "name": "react-browserslist-boundary",
+  "name": "react-browserslist",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmmulroy/react-browserslist-boundary.git"
+    "url": "git+https://github.com/dmmulroy/react-browserslist.git"
   },
   "author": "Dillon Mulroy <dillon.mulroy@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dmmulroy/react-browserslist-boundary/issues"
+    "url": "https://github.com/dmmulroy/react-browserslist/issues"
   },
-  "homepage": "https://github.com/dmmulroy/react-browserslist-boundary#readme",
+  "homepage": "https://github.com/dmmulroy/react-browserslist#readme",
   "dependencies": {
     "browserslist-useragent": "^2.0.1"
   }
