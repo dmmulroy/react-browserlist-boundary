@@ -2,7 +2,7 @@ import { matchesUA } from "browserslist-useragent";
 
 const noop = () => {};
 
-const ReactBrowersListBoundary = ({
+const ReactBrowersList = ({
   browsersList = [],
   children = noop,
   env,
@@ -22,4 +22,4 @@ const ReactBrowersListBoundary = ({
   return children(matchesUA(userAgent, opts));
 };
 
-export default ReactBrowersListBoundary;
+export default ReactBrowersList;
